@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TestDoc's documentation!
-===================================
+Welcome to TestDoc's documentation 1.0!
+=======================================
 
 .. toctree::
    :maxdepth: 2
