@@ -22,6 +22,7 @@ Indices and tables
 list
 ----
 it is a simple list
+
 * one
 * two
 * three
