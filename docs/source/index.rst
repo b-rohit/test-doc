@@ -18,3 +18,10 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+list
+----
+it is a simple list
+* one
+* two
+* three
